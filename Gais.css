@@ -21,6 +21,11 @@ li {
     float: left;
 }
 
+li a:hover:not(.active) {
+    background-color: #111;
+}
+
+
 li a {
     display: block;
     color: white;
@@ -62,6 +67,10 @@ h1 {
 
 
 
+
+header {
+    
+}
 
 .imgstyle {
     width: 100%;
