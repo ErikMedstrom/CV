@@ -1,0 +1,112 @@
+@media (max-width:481px) {
+
+}
+
+html {
+    height: 100%;
+    
+}
+
+body {
+    background-color:whitesmoke;
+    margin:0;
+    position: relative;
+    min-height: 100%;
+    margin-bottom:7em;
+    
+    
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+
+
+.Content-imageArea {
+    margin: 0 auto;
+    
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+
+
+#holder {
+    height:auto;
+    width:250px;
+    
+}
+
+
+
+
+header {
+    
+}
+
+.imgstyle {
+    width: 100%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin:0px;
+}
+
+footer {
+ 
+    background-color: green;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding:50px;
+    width:auto;
+    height:auto;
+    background-image: url(logo_bottom.png);
+    background-repeat: no-repeat; 
+    background-position: top center;
+    
+    
+}
+
+.swagButton {
+    
+    font-weight: 50;
+    font-size: 30px;
+    text-align: center;
+
+    border:solid 2px;
+    border-radius: 10px;
+    padding:20px, 80px;
+    transition-duration: 100ms;
+
+}
+
+
+.swagButton:hover {
+    background-color: green;
+    color:yellow;
+}
