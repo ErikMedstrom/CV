@@ -1,0 +1,10 @@
+div {
+    width:320px;
+    padding: 30px;
+    border:10px solid green;
+    margin:0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:20px;
+    font-style: italic;
+}
+

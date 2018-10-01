@@ -1,0 +1,36 @@
+@media (max-width:481px) {
+
+}
+
+body {
+    max-width:100vw;
+    background-color: rgb(76, 243, 76);
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    font-size: 30px;
+    font-size: 1em;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.gaisstyle {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    width:400px;  
+}
